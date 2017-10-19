@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="about">ledmatrix (c) 2017 John Rodolf Gobilab</string>
+    <string name="app_name">LedMatrix</string>
+    <string name="bright">Brightness</string>
+    <string name="speed">Scrolling Speed</string>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style>
+</resources>
